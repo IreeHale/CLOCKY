@@ -1,3 +1,23 @@
-body{
-    background-color: red;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
+
+body{
+    background-color: white;
+}
+
+.main{
+    background: #ccc;
+    width: 400px;
+    height: 175px;
+    margin: 100px auto;
+}
+
+.badge{
+    background: #e66357;
+    color: white;
+    padding: 30px;
+}
+
